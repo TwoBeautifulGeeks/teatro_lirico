@@ -1,4 +1,3 @@
-url: "https://twobeautifulgeeks.github.io/"
 baseurl: '/teatro_lirico'
 permalink: pretty
 title: 'Teatro Lirico'
@@ -19,8 +18,8 @@ footer:
 seo:
   meta_og_title: "Teatro Lirico"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif.netlify.app"
-  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
+  meta_og_url: "https://twobeautifulgeeks.github.io/"
+  meta_og_image: 
   meta_og_description: "Teatro Lirico"
   meta_twitter_card: "summary"
   meta_twitter_site: 
