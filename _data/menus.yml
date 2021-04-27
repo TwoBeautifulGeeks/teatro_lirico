@@ -1,0 +1,25 @@
+main:
+  - name: "Il Teatro"
+    url: "/about/"
+    weight: 3
+  - name: "Staff"
+    url: "/team/"
+    weight: 4
+  - name: "Abbonamenti"
+    url: '/subscriptions'
+    weight: 5
+  - name: "Biglietteria"
+    url: '/tickets'
+    weight: 5
+  - name: "Contatti"
+    url: "/contact/"
+    weight: 6
+    
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2
