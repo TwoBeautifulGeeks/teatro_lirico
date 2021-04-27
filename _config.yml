@@ -1,4 +1,5 @@
-baseurl: '/'
+url: "https://twobeautifulgeeks.github.io/"
+baseurl: '/teatro_lirico'
 permalink: pretty
 title: 'Teatro Lirico'
 
