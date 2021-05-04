@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "Musica",
+    "description": "Spettacoli di musica classica e non solo",
+    "image": "images/features/music.jpg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "title": "Prosa",
+    "description": "Letture di testi italiani ed internazionali",
+    "image": "images/features/book.jpg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "title": "Balletto",
+    "description": "I migliori corpi di ballo sul nostro palco",
+    "image": "images/features/ballet.jpg"
   }
 ]

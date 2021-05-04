@@ -1,5 +1,5 @@
 ---
-title: Jekyll Serif Theme
+title: Teatro Lirico
 layout: home
 description: Teatro Lirico
 intro_image: "images/illustrations/dancer.jpg"
