@@ -1,6 +1,6 @@
 baseurl: '/teatro_lirico'
 permalink: pretty
-title: 'Teatro Lirico'
+title: 'Teatro Lirico Stella'
 
 google_analytics_id: ""
 
@@ -8,19 +8,19 @@ homepage:
   show_call_box: true
 
 logo:
-  mobile: "images/logo/logo.jpg"
-  desktop: "images/logo/logo.jpg"
-  desktop_height: "36px"
+  mobile: "images/logo/logo.png"
+  desktop: "images/logo/logo.png"
+  desktop_height: "40px"
 
 footer:
   copyright_text: 'Site by Two Beautiful Geeks '
 
 seo:
-  meta_og_title: "Teatro Lirico"
+  meta_og_title: "Teatro Lirico Stella"
   meta_og_type: "website"
   meta_og_url: "https://twobeautifulgeeks.github.io/"
   meta_og_image: 
-  meta_og_description: "Teatro Lirico"
+  meta_og_description: "Teatro Lirico Stella"
   meta_twitter_card: "summary"
   meta_twitter_site: 
   meta_twitter_creator: 
