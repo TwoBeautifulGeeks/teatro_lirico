@@ -10,8 +10,6 @@ Come ogni stagione, i migliori artisti italiani ed internazionali e le migliori 
 
 Non perderti i prossimi appuntamenti:
 
-
-
 * 28 maggio: **La carmen** opera lirica drammatica divisa in quattro atti, composta da Georges Bizet sul libretto di Henri Meilhac e Ludovic Halévy. Regia di Stephen Corder.
 
 * 31 maggio: **Don Giovanni** ossia _Il dissoluto punito_ è un'opera lirica in due atti di Wolfgang Amadeus Mozart su libretto di Lorenzo Da Ponte. Regia di Marcello Foà.
