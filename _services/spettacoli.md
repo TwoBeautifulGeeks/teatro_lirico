@@ -22,7 +22,8 @@ Non perderti i prossimi appuntamenti di giugno:
 
 * 13 giugno: **La valchiria** la seconda opera dell’epopea l’Anello del Nibelungo di Richard Wagner, una delle sue opere più imponenti. Dirige l'orchestra Ludovico Pappani.
 
-* 18 giugno: **Lo schiaccianoci** Musica di Pëtr Il’ič Čajkovskij, balletto in due atti da un racconto di E.T.A. Hoffmann. Dirige l'orchestra Illia Sbaljatovic.
+* 18 giugno: **Lo schiaccianoci** Musica di Pëtr Il’ič Čajkovskij, balletto in due atti da un racconto di E.T.A. Hoffmann. Dirige l'orchestra Illia Sbaljatovič.
+
 
 * 19 giugno: **La traviata** un'opera in tre atti di Giuseppe Verdi su libretto di Francesco Maria Piave, tratto dalla pièce teatrale di Alexandre Dumas (figlio) La signora delle camelie. Dirige Danilo Cavalli.
 
