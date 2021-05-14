@@ -16,7 +16,7 @@ Non perderti i prossimi appuntamenti di giugno:
 
 * 10 giugno: **Madama Butterfly** è un'opera in tre atti (in origine due) di Giacomo Puccini, su libretto di Giuseppe Giacosa e Luigi Illica, definita nello spartito e nel libretto "tragedia giapponese". Regia di Albert Welber.
 
-* 11 giugno: **Il flauto magico**  opera in due atti composta nel 1791 da Wolfgang Amadeus Mozart su libretto di Emanuel Schikaneder Settemuse Compositori musica classica Compositori musica classica Wolfgang Amadeus Mozart. Regia di Philipp Zimmermann.
+* 11 giugno: **Il flauto magico**  opera in due atti composta nel 1791 da Wolfgang Amadeus Mozart su libretto di Emanuel Schikaneder. Regia di Philipp Zimmermann.
 
 * 12 giugno: **La bohème**  opera lirica in quattro quadri di Giacomo Puccini, libretto di Giuseppe Giacosa e Luigi Illica. Regia di Franco Zaffiri.
 
