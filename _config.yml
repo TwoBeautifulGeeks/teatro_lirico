@@ -13,7 +13,7 @@ logo:
   desktop_height: "40px"
 
 footer:
-  copyright_text: 'Site by Two Beautiful Geeks '
+  copyright_text: 'Site made with Jekyll and ❤ by Two Beautiful Geeks '
 
 seo:
   meta_og_title: "Teatro Lirico Stella"
